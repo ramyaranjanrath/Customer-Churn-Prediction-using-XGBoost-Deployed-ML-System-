@@ -26,9 +26,7 @@ def map_binary_series(s: pd.Series) -> pd.Series:
     return s
     
 def build_features(df:pd.DataFrame, target_column:str = "Churn") -> pd.DataFrame:
-    """
-    explanation
-    """
+    
 
     df = df.copy()
     print(f"starting feature engineering on {df.shape[1]} columns")
