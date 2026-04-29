@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\LIPUN\Documents\Projects\Project_2/mlruns/193271888061681598/851fab15485848dd90b6bd4d214bd2d6/artifacts
+end_time: 1777452315866
+entry_point_name: ''
+experiment_id: '193271888061681598'
+lifecycle_stage: active
+run_id: 851fab15485848dd90b6bd4d214bd2d6
+run_name: blushing-tern-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777452315720
+status: 4
+tags: []
+user_id: LIPUN

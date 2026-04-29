@@ -1,0 +1,10 @@
+artifact_location: file:///C:\Users\LIPUN\Documents\Projects\Project_2/mlruns/193271888061681598/models/m-a284654e5d4a413f83b25b8b49d739c3/artifacts
+creation_timestamp: 1777452390636
+experiment_id: '193271888061681598'
+last_updated_timestamp: 1777452400240
+model_id: m-a284654e5d4a413f83b25b8b49d739c3
+model_type: null
+name: model
+source_run_id: 02932fc6464841f8b4c0168da022c0c9
+status: 2
+status_message: null

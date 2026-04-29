@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\LIPUN\Documents\Projects\Project_2/mlruns/193271888061681598/02932fc6464841f8b4c0168da022c0c9/artifacts
+end_time: 1777452400269
+entry_point_name: ''
+experiment_id: '193271888061681598'
+lifecycle_stage: active
+run_id: 02932fc6464841f8b4c0168da022c0c9
+run_name: funny-hawk-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777452389949
+status: 3
+tags: []
+user_id: LIPUN
